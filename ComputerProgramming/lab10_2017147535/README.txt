@@ -1,0 +1,1 @@
+Q1. func_2 in module1 and module2 -> duplication!!!
