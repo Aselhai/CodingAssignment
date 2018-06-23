@@ -1,0 +1,8 @@
+과제 대충한거임.
+쓸 사람 쓰셈.
+
+<center>학기</center>|<center>과목</center>|<center>담당교수</center>
+-------------------|-------------------|-------------------
+<center>1학년 1학기</center>|<center>컴퓨터프로그래밍(CSI2100)</center>|<center>벅스텔러번트</center>
+<center>1학년 2학기</center>|<center>객체지향프로그래밍(CSI2102)</center>|<center>김선주</center>
+<center>2학년 1학기</center>|<center>자료구조(CSI2103)</center>|<center>안형찬</center>
